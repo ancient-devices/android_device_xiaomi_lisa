@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "ancient-devices/android_device_xiaomi_sm8350-common",
+    "target_path": "device/xiaomi/sm8350-common",
+    "branch": "13"
+  },
+  {
+    "remote": "gitlab",
+    "repository": "ancient-devices/vendor-xiaomi",
+    "target_path": "vendor/xiaomi",
+    "branch": "13"
+  }
+]
